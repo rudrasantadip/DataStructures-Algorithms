@@ -1,0 +1,9 @@
+***********************************************************************************
+* An Array is a homogenous data structure which stores data in contigious memory locations.
+* An array is static in nature, which means once allocated the size of an array cannot be changed during runtime.
+* The elements stored in the array are accessed using index (plural:- indices)
+* Arrays follow 0 based indexing, the starting index is 0 
+* For an array of length "l" the ending index is (l-1)
+* Operations that can be performed in an array -> insertion, deletion, searching and sorting
+
+***********************************************************************************

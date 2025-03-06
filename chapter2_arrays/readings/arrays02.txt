@@ -1,0 +1,11 @@
+Steps to Insert an Element in an Array
+
+* Declare the Array 
+* Ensure that the array has enough space to accommodate the new element. 
+* If the array is full (static array), insertion may not be possible without resizing.
+* Determine the Position
+* Decide the index where you want to insert the new element. 
+* The index should be within the valid range [0, size].
+* Shift Elements to the RightTo insert an element at a specific position, shift all elements from that position to the right by one step to create space.
+* Insert the ElementAssign the new value to the target index after shifting.
+* Update the Array SizeIncrease the size counter (if maintaining a count of elements).
